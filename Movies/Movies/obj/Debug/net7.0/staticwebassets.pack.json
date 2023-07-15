@@ -1,0 +1,165 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Movies.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Movies.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\Uploads\\1be4744f-930a-4f4a-8668-c8ab5c3e8bd1.png",
+      "PackagePath": "staticwebassets\\Uploads\\1be4744f-930a-4f4a-8668-c8ab5c3e8bd1.png"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\Uploads\\2920bc74-1aa1-4aba-8a69-51ab03aa3aeb.png",
+      "PackagePath": "staticwebassets\\Uploads\\2920bc74-1aa1-4aba-8a69-51ab03aa3aeb.png"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\Uploads\\32bf7b99-c44e-4cd9-bd87-b17db7182081.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\32bf7b99-c44e-4cd9-bd87-b17db7182081.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\Uploads\\9a78e615-ce57-4ac3-abf8-afb2b0de6f1d.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\9a78e615-ce57-4ac3-abf8-afb2b0de6f1d.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\Uploads\\9df1adfd-f51c-46d9-b156-df210582a473.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\9df1adfd-f51c-46d9-b156-df210582a473.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\Uploads\\c282ef4c-8e2f-4f1f-9946-f04b5614ffb5.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c282ef4c-8e2f-4f1f-9946-f04b5614ffb5.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\Uploads\\f61f81c0-8e0a-4737-811c-403a3bd069db.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f61f81c0-8e0a-4737-811c-403a3bd069db.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Movies\\Movies\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Movies.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Movies.props",
+      "PackagePath": "build\\Movies.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Movies.props",
+      "PackagePath": "buildMultiTargeting\\Movies.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Movies.props",
+      "PackagePath": "buildTransitive\\Movies.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
